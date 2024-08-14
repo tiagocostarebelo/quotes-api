@@ -1,0 +1,214 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "quote": "May the Force be with you.",
+      "movie": "Star Wars",
+      "actor": "Harrison Ford",
+      "character": "Han Solo"
+    },
+    {
+      "id": 2,
+      "quote": "Here's looking at you, kid.",
+      "movie": "Casablanca",
+      "actor": "Humphrey Bogart",
+      "character": "Rick Blaine"
+    },
+    {
+      "id": 3,
+      "quote": "I'm gonna make him an offer he can't refuse.",
+      "movie": "The Godfather",
+      "actor": "Marlon Brando",
+      "character": "Vito Corleone"
+    },
+    {
+      "id": 4,
+      "quote": "Toto, I've a feeling we're not in Kansas anymore.",
+      "movie": "The Wizard of Oz",
+      "actor": "Judy Garland",
+      "character": "Dorothy Gale"
+    },
+    {
+      "id": 5,
+      "quote": "You can't handle the truth!",
+      "movie": "A Few Good Men",
+      "actor": "Jack Nicholson",
+      "character": "Col. Nathan R. Jessup"
+    },
+    {
+      "id": 6,
+      "quote": "I'll be back.",
+      "movie": "The Terminator",
+      "actor": "Arnold Schwarzenegger",
+      "character": "The Terminator"
+    },
+    {
+      "id": 7,
+      "quote": "Houston, we have a problem.",
+      "movie": "Apollo 13",
+      "actor": "Tom Hanks",
+      "character": "Jim Lovell"
+    },
+    {
+      "id": 8,
+      "quote": "You talking to me?",
+      "movie": "Taxi Driver",
+      "actor": "Robert De Niro",
+      "character": "Travis Bickle"
+    },
+    {
+      "id": 9,
+      "quote": "Here's Johnny!",
+      "movie": "The Shining",
+      "actor": "Jack Nicholson",
+      "character": "Jack Torrance"
+    },
+    {
+      "id": 10,
+      "quote": "I see dead people.",
+      "movie": "The Sixth Sense",
+      "actor": "Haley Joel Osment",
+      "character": "Cole Sear"
+    },
+    {
+      "id": 11,
+      "quote": "Why so serious?",
+      "movie": "The Dark Knight",
+      "actor": "Heath Ledger",
+      "character": "The Joker"
+    },
+    {
+      "id": 12,
+      "quote": "E.T. phone home.",
+      "movie": "E.T. the Extra-Terrestrial",
+      "actor": "Pat Welsh (voice)",
+      "character": "E.T."
+    },
+    {
+      "id": 13,
+      "quote": "Hasta la vista, baby.",
+      "movie": "Terminator 2: Judgment Day",
+      "actor": "Arnold Schwarzenegger",
+      "character": "The Terminator"
+    },
+    {
+      "id": 14,
+      "quote": "Say hello to my little friend!",
+      "movie": "Scarface",
+      "actor": "Al Pacino",
+      "character": "Tony Montana"
+    },
+    {
+      "id": 15,
+      "quote": "I'm the king of the world!",
+      "movie": "Titanic",
+      "actor": "Leonardo DiCaprio",
+      "character": "Jack Dawson"
+    },
+    {
+      "id": 16,
+      "quote": "Carpe diem. Seize the day, boys.",
+      "movie": "Dead Poets Society",
+      "actor": "Robin Williams",
+      "character": "John Keating"
+    },
+    {
+      "id": 17,
+      "quote": "To infinity and beyond!",
+      "movie": "Toy Story",
+      "actor": "Tim Allen (voice)",
+      "character": "Buzz Lightyear"
+    },
+    {
+      "id": 18,
+      "quote": "Just keep swimming.",
+      "movie": "Finding Nemo",
+      "actor": "Ellen DeGeneres (voice)",
+      "character": "Dory"
+    },
+    {
+      "id": 19,
+      "quote": "I feel the need - the need for speed.",
+      "movie": "Top Gun",
+      "actor": "Tom Cruise",
+      "character": "Maverick"
+    },
+    {
+      "id": 20,
+      "quote": "You can't handle the truth!",
+      "movie": "A Few Good Men",
+      "actor": "Jack Nicholson",
+      "character": "Col. Nathan R. Jessup"
+    },
+    {
+      "id": 21,
+      "quote": "I'm walking here! I'm walking here!",
+      "movie": "Midnight Cowboy",
+      "actor": "Dustin Hoffman",
+      "character": "Ratso Rizzo"
+    },
+    {
+      "id": 22,
+      "quote": "There's no place like home.",
+      "movie": "The Wizard of Oz",
+      "actor": "Judy Garland",
+      "character": "Dorothy Gale"
+    },
+    {
+      "id": 23,
+      "quote": "Keep your friends close, but your enemies closer.",
+      "movie": "The Godfather Part II",
+      "actor": "Al Pacino",
+      "character": "Michael Corleone"
+    },
+    {
+      "id": 24,
+      "quote": "You had me at 'hello'.",
+      "movie": "Jerry Maguire",
+      "actor": "Renée Zellweger",
+      "character": "Dorothy Boyd"
+    },
+    {
+      "id": 25,
+      "quote": "Just when I thought I was out, they pull me back in.",
+      "movie": "The Godfather Part III",
+      "actor": "Al Pacino",
+      "character": "Michael Corleone"
+    },
+    {
+      "id": 26,
+      "quote": "I coulda been a contender.",
+      "movie": "On the Waterfront",
+      "actor": "Marlon Brando",
+      "character": "Terry Malloy"
+    },
+    {
+      "id": 27,
+      "quote": "Go ahead, make my day.",
+      "movie": "Sudden Impact",
+      "actor": "Clint Eastwood",
+      "character": "Harry Callahan"
+    },
+    {
+      "id": 28,
+      "quote": "The stuff that dreams are made of.",
+      "movie": "The Maltese Falcon",
+      "actor": "Humphrey Bogart",
+      "character": "Sam Spade"
+    },
+    {
+      "id": 29,
+      "quote": "Nobody puts Baby in a corner.",
+      "movie": "Dirty Dancing",
+      "actor": "Patrick Swayze",
+      "character": "Johnny Castle"
+    },
+    {
+      "id": 30,
+      "quote": "I'm mad as hell, and I'm not going to take this anymore!",
+      "movie": "Network",
+      "actor": "Peter Finch",
+      "character": "Howard Beale"
+    }
+  ]
+}
